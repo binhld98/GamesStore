@@ -1,16 +1,16 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/27.0.5 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36" version="27.0.5">
   <diagram name="Page-1" id="bb6kxjsolLbiKVe32dnG">
-    <mxGraphModel dx="2358" dy="1469" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="954" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="1800" width="1320" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="1560" width="1320" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="80" y="1220" width="1320" height="260" as="geometry" />
         </mxCell>
         <mxCell id="UllSQZ1odu2XyOiEx2Tc-22" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=none;" parent="1" vertex="1">
@@ -100,7 +100,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UllSQZ1odu2XyOiEx2Tc-33" value="GamesStore.Infrastructure" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="UllSQZ1odu2XyOiEx2Tc-33" value="GameStore.Infrastructure" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="900" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p05nc4VTAlTfhi-gmkZK-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" parent="1" source="UllSQZ1odu2XyOiEx2Tc-34" target="UllSQZ1odu2XyOiEx2Tc-33" edge="1">
@@ -125,7 +125,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UllSQZ1odu2XyOiEx2Tc-34" value="GamesStore.UI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="UllSQZ1odu2XyOiEx2Tc-34" value="GameStore.UI" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="820" width="320" height="40" as="geometry" />
         </mxCell>
         <mxCell id="UllSQZ1odu2XyOiEx2Tc-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="UllSQZ1odu2XyOiEx2Tc-35" target="UllSQZ1odu2XyOiEx2Tc-36" edge="1">
@@ -136,10 +136,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="UllSQZ1odu2XyOiEx2Tc-35" value="GamesStore.Core" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="UllSQZ1odu2XyOiEx2Tc-35" value="GameStore.Core" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="980" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UllSQZ1odu2XyOiEx2Tc-36" value="GamesStore.Domain" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="UllSQZ1odu2XyOiEx2Tc-36" value="GameStore.Domain" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="1060" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="p05nc4VTAlTfhi-gmkZK-16" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -169,76 +169,76 @@
         <mxCell id="p05nc4VTAlTfhi-gmkZK-14" value="compiled-time dependency" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="p05nc4VTAlTfhi-gmkZK-15" vertex="1">
           <mxGeometry x="40" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-1" value="3. Use Cases" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-1" value="3. Use Cases" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="40" y="1170" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-2" value="publisher" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-2" value="publisher" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="120" y="1620" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-3" value="browse games" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-3" value="browse games" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="1250" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-7" value="add a game to cart" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-7" value="add a game to cart" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="880" y="1250" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-8" value="purchase cart" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-8" value="purchase cart" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="1250" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-9" value="view detail a game" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-9" value="view detail a game" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="1250" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-10" value="view inventory" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-10" value="view inventory" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="1370" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-11" value="install a game" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-11" value="install a game" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="1370" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-12" value="play an installed game" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-12" value="play an installed game" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="1370" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-13" value="add a game to whislist" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-13" value="add a game to whislist" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="1250" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-15" value="request publish a new game" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-15" value="request publish a new game" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="1610" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-16" value="monitor publisher&#39;s dashboard" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-16" value="monitor publisher&#39;s dashboard" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="1610" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-18" value="publisher services" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-18" value="publisher services" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="1850" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-19" value="customer services" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-19" value="customer services" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="1850" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-20" value="manage screens/roles/permissions" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-20" value="manage screens/roles/permissions" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="1850" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-21" value="get an achievement" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-21" value="get an achievement" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="881.02" y="1370" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-22" value="get notified on sales" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-22" value="get notified on sales" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="1250" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-23" value="purchase as a gift" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-23" value="purchase as a gift" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1200" y="1250" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-24" value="uninstall a game" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-24" value="uninstall a game" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="1370" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-25" value="request retired a game" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-25" value="request retired a game" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="1610" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-26" value="request update information of a game" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-26" value="request update information of a game" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="560" y="1610" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-27" value="monitor overal dashboard" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-27" value="monitor overal dashboard" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="1850" width="140" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-28" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-28" value="user" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="120" y="1300" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hbh-vaI3xj4NfkBIOn37-29" value="employee" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="hbh-vaI3xj4NfkBIOn37-29" value="employee" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="120" y="1860" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
