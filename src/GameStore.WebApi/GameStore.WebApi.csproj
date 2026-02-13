@@ -7,6 +7,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.4.1" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\GameStore.Core\GameStore.Core.csproj" />
     <ProjectReference Include="..\GameStore.Domain\GameStore.Domain.csproj" />
     <ProjectReference Include="..\GameStore.Infrastructure\GameStore.Infrastructure.csproj" />
